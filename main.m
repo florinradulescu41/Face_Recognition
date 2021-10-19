@@ -1,4 +1,4 @@
-function Tema2MN(name, k)
+function MAIN(name, k)
 	% Functie in care sunt apelate cerintele
 	% Intrari:
 	% -> name: numele fisierului in care se scriu rezultatele
